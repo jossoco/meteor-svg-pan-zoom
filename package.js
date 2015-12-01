@@ -1,6 +1,6 @@
 Package.describe({
     name: 'jossoco:svg-pan-zoom',
-    summary: 'Meteor package that wraps the svg-pan-zoom library. See https://github.com/ariutta/svg-pan-zoom for more details.',
+    summary: 'Meteor package that wraps the svg-pan-zoom library: https://github.com/ariutta/svg-pan-zoom',
     version: '1.0.0',
     git: 'https://github.com/jossoco/meteor-svg-pan-zoom.git'
 });

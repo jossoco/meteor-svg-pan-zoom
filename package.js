@@ -11,7 +11,7 @@ Npm.depends({
 
 Package.onUse(function(api) {
     api.versionsFrom('1.0');
-    api.export('SvgPanZoom');
+    api.export('svgPanZoom');
     api.addFiles('.npm/package/node_modules/svg-pan-zoom/dist/svg-pan-zoom.js', ['client']);
     api.addFiles('jossoco:svg-pan-zoom.js');
 });
